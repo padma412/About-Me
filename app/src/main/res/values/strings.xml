@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="Bhargavi">Bhargavi</string>
+    <string name="star">yellowstar</string>
+    <string name="Bio">
+     Hi, my name is Bhargavi
+    \n\nI love fruits
+    \n\n Because fruits give us more energy
+     \nand by eating that we can gain more
+      \nimmunity power .
+     \n\nNow we are facing most dangerous
+     \ndisease Karona.To get ridoff
+      \nit by eating fruits.
+
+    </string>
+    <string name="what">What is your nick name ?</string>
+    <string name="done">Done</string>
+</resources>
